@@ -1,2 +1,2 @@
 # Nebula-Modpack
-NebulaDev Minecraft Modpack
+NebulaDev Modpack
